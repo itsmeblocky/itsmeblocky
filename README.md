@@ -1,4 +1,4 @@
-### Hi! i am blocky, a roblox developer. im currently working on Respy, the ultimate debugging suite.
+### Hi! i am blocky, a roblox developer. im currently working on Rustblox Studio, a roblox studio remake in rust.
 
 <img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/78dce8cdbeeb28751471792422fe143b21c1a584630b7e24.jpeg" width="250"/>
 
